@@ -1,4 +1,4 @@
-import cs1501.p1.Bst;
+import cs1501.p1.BST;
 
 /**
  * A very basic driver for CS1501 Project 1 to demonstrate usage and provide a place for further
@@ -8,7 +8,7 @@ import cs1501.p1.Bst;
  */
 public class App {
     public static void main(String[] args) {
-        Bst<String> tree = new Bst<>();
+        BST<String> tree = new BST<>();
         tree.put("3");
         tree.put("1");
         tree.put("4");
