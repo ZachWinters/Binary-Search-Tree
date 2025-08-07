@@ -1,4 +1,4 @@
-import cs1501.p1.BST;
+import p1.BST;
 
 /**
  * A very basic driver for CS1501 Project 1 to demonstrate usage and provide a place for further

@@ -2,7 +2,7 @@
  * Binary Search Tree specification interface for CS1501 Project 1
  * @author    Dr. Farnan
  */
-package cs1501.p1;
+package p1;
 
 interface BST_Inter<T extends Comparable<T>> {
 

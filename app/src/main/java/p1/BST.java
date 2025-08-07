@@ -1,4 +1,4 @@
-package cs1501.p1;
+package p1;
 
 public class BST<T extends Comparable<T>> implements BST_Inter<T>{
 
